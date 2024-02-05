@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+![2024-02-05 10_30_11-](https://github.com/erixkazhus/MoviePlace-frontend/assets/78722002/90a28c4e-eb0d-4c69-9ec9-520950a6092c)
